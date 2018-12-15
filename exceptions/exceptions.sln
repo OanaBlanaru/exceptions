@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exceptions", "exceptions\exceptions.csproj", "{9625FAC0-29DF-4C4E-97DE-D1010D33AF33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{846A2EA7-858D-436E-8E29-E2D2BC6DB311}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9625FAC0-29DF-4C4E-97DE-D1010D33AF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9625FAC0-29DF-4C4E-97DE-D1010D33AF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9625FAC0-29DF-4C4E-97DE-D1010D33AF33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846A2EA7-858D-436E-8E29-E2D2BC6DB311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846A2EA7-858D-436E-8E29-E2D2BC6DB311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846A2EA7-858D-436E-8E29-E2D2BC6DB311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846A2EA7-858D-436E-8E29-E2D2BC6DB311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
